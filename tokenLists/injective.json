@@ -171,6 +171,15 @@
     "originChainId": "injective-1"
   },
   {
+    "protocol": "DRUGS on INJ",
+    "symbol": "DRUGS",
+    "token": "factory/inj1sklcy2px26jj73ffs2f7fmxw77zsts66prrqxr/DRUGS",
+    "decimals": 9,
+    "icon": "/img/drugsoninj.png",
+    "originDenom": "factory/inj1sklcy2px26jj73ffs2f7fmxw77zsts66prrqxr/DRUGS",
+    "originChainId": "injective-1"
+  },
+  {
     "protocol": "Sommelier",
     "symbol": "SOMM",
     "token": "ibc/34346A60A95EB030D62D6F5BDD4B745BE18E8A693372A8A347D5D53DBBB1328B",
